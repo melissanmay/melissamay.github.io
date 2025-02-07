@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "CSU Projects",
+    "section": "",
+    "text": "In the spring of 2025, I took a Quantitative Reasoning class based in R. I wrote some code and did some interesting data science. Here is a collection of links!\n\nIn this assignment, we built a static users site with Github Pages\nIncludes a Github repo for access to all the code. Look at how high quality my work is!"
   }
 ]
