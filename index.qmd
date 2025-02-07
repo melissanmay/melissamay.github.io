@@ -1,10 +1,10 @@
 ---
-title: "melissamay.github.io"
+title: "Melissa May"
 ---
 
-This is a Quarto website.
+Hi! My name is Melissa May and I am an undergraduate student at Colorado State University. I am majoring in Ecosystem Science and Sustainability and minoring in Political Science. Since I moved to Colorado in 2018, I have loved the ecosystem, whether it be the mountains or the local wildlife, and I knew that I would love to pursue a career in which I can help maintain that beauty.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Outside of that, I have a strong passion and interest in political science and how policy implementation and public outreach can impact the environment and natural resource management. I am eager to learn as much as possible about these industries, understand the unique ways they tie together, and begin getting experience helping people!
 
 ```{r}
 1 + 1
