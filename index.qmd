@@ -1,10 +1,11 @@
 ---
 title: "Melissa May"
-image: "Pictures/Saved Pictures/headshot.png"
+image: images/aboutme.jpg
 toc: false
 about:
   template: broadside
   image-shape: rounded
+  image-width: 17em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/mel-may/
