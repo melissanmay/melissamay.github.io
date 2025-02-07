@@ -1,5 +1,6 @@
 ---
 title: "Melissa May"
+image: "Pictures/Saved Pictures/headshot.png"
 toc: false
 about:
   template: broadside
