@@ -1,5 +1,16 @@
 ---
 title: "Melissa May"
+toc: false
+about:
+  template: broadside
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mel-may/
+    - text: GitHub
+      href: https://github.com/melissanmay
+    - text: Email
+      href: mailto:melmay@colostate.edu
 ---
 
 Hi! My name is Melissa May and I am an undergraduate student at Colorado State University. I am majoring in Ecosystem Science and Sustainability and minoring in Political Science. Since I moved to Colorado in 2018, I have loved the ecosystem, whether it be the mountains or the local wildlife, and I knew that I would love to pursue a career in which I can help maintain that beauty.
