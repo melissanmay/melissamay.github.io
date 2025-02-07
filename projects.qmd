@@ -1,5 +1,10 @@
 ---
-title: "projects"
+title: "CSU Projects"
 format: html
 ---
 
+In the spring of 2025, I took a Quantitative Reasoning class based in R. I wrote some code and did some interesting data science. Here is a collection of links!
+
+- In this assignment, we built a static users site with Github Pages
+- Includes a Github repo for access to all the code.
+Look at how high quality my work is!
