@@ -7,11 +7,16 @@ about:
   image-shape: rounded
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/mel-may/
-    - text: GitHub
+      target: _blank
+    - icon: github
+      text: GitHub
       href: https://github.com/melissanmay
-    - text: Email
+      target: _blank
+    - icon: envelope
+      text: Email
       href: mailto:melmay@colostate.edu
 ---
 
