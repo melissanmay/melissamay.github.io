@@ -6,79 +6,72 @@ format: html
 ## Melissa's Resume
 
 ## Contact Information
-- Email: [melmay@colostate.edu](mailto:melmay@colostate.edu)
-- LinkedIn: [linkedin.com/in/mel-may/](https://www.linkedin.com/in/mel-may/)
 
----
+-   Email: [melmay\@colostate.edu](mailto:melmay@colostate.edu)
+-   LinkedIn: [linkedin.com/in/mel-may/](https://www.linkedin.com/in/mel-may/)
+
+------------------------------------------------------------------------
 
 ## Education
 
-**Colorado State University**
-_Bachelor of Science in Ecosystem Science, Minor in Political Science_
+**Colorado State University** *Bachelor of Science in Ecosystem Science, Minor in Political Science*
 
-- Expected Graduation: December 2025
-- Named to Warner College of Natural Resources Dean's List Fall 2023, Spring 2024.
+-   Expected Graduation: December 2025
+-   Named to Warner College of Natural Resources Dean's List Fall 2023, Spring 2024.
 
-**Front Range Community College**
-_Associate of Arts_
+**Front Range Community College** *Associate of Arts*
 
-- 4.0 GPA
-- Named to President's List of Honor Students in Fall 2022 and Spring 2023.
+-   4.0 GPA
+-   Named to President's List of Honor Students in Fall 2022 and Spring 2023.
 
----
+------------------------------------------------------------------------
 
 ## Experience
 
-**Site Content Manager/Communications Coordinator, Natural Resource Ecology Laboratory**
-_October 2023 - Present_
+**Site Content Manager/Communications Coordinator, Natural Resource Ecology Laboratory** *October 2023 - Present*
 
-- Develops new website content to highlight research projects and the scientists behind the work, driving engagement with diverse audiences.
-- Manages social media pages across multiple platforms to boost engagement and visibility for the lab.
-- Collaborates with other CSU departments and statewide organizations to amplify content and important research.
-- Maintains and updates existing website content, ensuring up-to-date and accurate information.
+-   Develops new website content to highlight research projects and the scientists behind the work, driving engagement with diverse audiences.
+-   Manages social media pages across multiple platforms to boost engagement and visibility for the lab.
+-   Collaborates with other CSU departments and statewide organizations to amplify content and important research.
+-   Maintains and updates existing website content, ensuring up-to-date and accurate information.
 
-**Xi Sigma Pi Natural Resource Honors Society Officer**
-_August 2024 - Present_
+**Xi Sigma Pi Natural Resource Honors Society Officer** *August 2024 - Present*
 
-- Participates in Xi Sigma Pi meetings and events, planning and engaging with other officers to ensure smooth operation of the club.
-- Attends monthly meetings, volunteer service events, highway cleanups, wood burnings, study rooms, initiations, and team building events.
-- Coordinates society meetings and speakers, contributes to organizing member initiations, and organizes communications within the society.
+-   Participates in Xi Sigma Pi meetings and events, planning and engaging with other officers to ensure smooth operation of the club.
+-   Attends monthly meetings, volunteer service events, highway cleanups, wood burnings, study rooms, initiations, and team building events.
+-   Coordinates society meetings and speakers, contributes to organizing member initiations, and organizes communications within the society.
 
-**Front Range Community College Peer Math Tutor**
-_January 2023 - May 2023_
+**Front Range Community College Peer Math Tutor** *January 2023 - May 2023*
 
-- Delivered successful math tutoring for students up to Calculus I based on current needs.
-- Supported students by identifying and addressing specific concerns.
-- Coached students through challenging material with positive reinforcement and encouragement.
+-   Delivered successful math tutoring for students up to Calculus I based on current needs.
+-   Supported students by identifying and addressing specific concerns.
+-   Coached students through challenging material with positive reinforcement and encouragement.
 
-**Genesis Health Club Lead Camp Counselor**
-_May 2022 - August 2022_
+**Genesis Health Club Lead Camp Counselor** *May 2022 - August 2022*
 
-- Engaged children in arts and crafts, singing, sports, games, and field trips while maintaining a safe environment.
-- Cultivated effective relationships with campers, parents, and other camp counselors by utilizing active listening and dynamic interpersonal skills.
-- Recognized and implemented safety standards to minimize incidents or accidents.
+-   Engaged children in arts and crafts, singing, sports, games, and field trips while maintaining a safe environment.
+-   Cultivated effective relationships with campers, parents, and other camp counselors by utilizing active listening and dynamic interpersonal skills.
+-   Recognized and implemented safety standards to minimize incidents or accidents.
 
----
+------------------------------------------------------------------------
 
 ## Skills
 
-- **Technical:** R, GitHub, DBeaver, Microsoft Office suite
-- **Research:** Data analysis, literature review, research design
-- **Communication:** Writing, social media management, public speaking
+-   **Technical:** R, GitHub, DBeaver, Microsoft Office suite
+-   **Research:** Data analysis, literature review, research design
+-   **Communication:** Writing, social media management, public speaking
 
----
+------------------------------------------------------------------------
 
 ## Projects
 
-**Skills for Undergraduate Participation in Ecological Research (SUPER) Project: Analyzing Citizen Science Participation**
-_Fall 2024 - Spring 2025_
+**Skills for Undergraduate Participation in Ecological Research (SUPER) Project: Analyzing Citizen Science Participation** *Fall 2024 - Spring 2025*
 
-- Analyzed user participation patterns on the CitSci.org platform, categorizing project types and engagement levels.
-- Developed hypotheses regarding user motivations and project characteristics.
-- Collaborated with faculty to improve the platform's user interface and increase engagement.
+-   Analyzed user participation patterns on the CitSci.org platform, categorizing project types and engagement levels.
+-   Developed hypotheses regarding user motivations and project characteristics.
+-   Collaborated with faculty to improve the platform's user interface and increase engagement.
 
-**Quantitative Reasoning Class Project**
-_Spring 2025_
+**Quantitative Reasoning Class Project** *Spring 2025*
 
-- Built a website using GitHub Pages as part of a quantitative reasoning assignment.
-- Applied R coding techniques to analyze and visualzie data in an accessible format.
+-   Built a website using GitHub Pages as part of a quantitative reasoning assignment.
+-   Applied R coding techniques to analyze and visualzie data in an accessible format.

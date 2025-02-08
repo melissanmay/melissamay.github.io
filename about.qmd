@@ -2,7 +2,44 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+## How I Got Here
+
+I was born and raised in Fort Lauderdale, Florida, where I developed a deep love for the outdoors early on. My family took frequent trips to the Florida Keys, St. Augustine, and Orlando, and we spent lots of time fishing, boating, going to the beach, and just being outside. These experiences gave me an appreciation for nature long before I ever considered studying it.
+
+Growing up near the Florida Everglades also played a big role in shaping my perspective. My elementary
+
+------------------------------------------------------------------------
+
+## Education
+
+**Colorado State University** *Bachelor of Science in Ecosystem Science, Minor in Political Science*
+
+-   Expected Graduation: December 2025
+-   Named to Warner College of Natural Resources Dean's List Fall 2023, Spring 2024.
+
+**Front Range Community College** *Associate of Arts*
+
+-   4.0 GPA
+-   Named to President's List of Honor Students in Fall 2022 and Spring 2023.
+
+------------------------------------------------------------------------
+
+## Experience
+
+**Site Content Manager/Communications Coordinator, Natural Resource Ecology Laboratory** *October 2023 - Present*
+
+-   Develops new website content to highlight research projects and the scientists behind the work, driving engagement with diverse audiences.
+-   Manages social media pages across multiple platforms to boost engagement and visibility for the lab.
+-   Collaborates with other CSU departments and statewide organizations to amplify content and important research.
+-   Maintains and updates existing website content, ensuring up-to-date and accurate information.
+
+**Xi Sigma Pi Natural Resource Honors Society Officer** *August 2024 - Present*
+
+-   Participates in Xi Sigma Pi meetings and events, planning and engaging with other officers to ensure smooth operation of the club.
+-   Attends monthly meetings, volunteer service events, highway cleanups, wood burnings, study rooms, initiations, and team building events.
+-   Coordinates society meetings and speakers, contributes to organizing member initiations, and organizes communications within the society.
 
 ```{r}
 1 + 1
