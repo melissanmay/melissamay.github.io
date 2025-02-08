@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Melissa May"
+  favicon: images/homeicon.png
   navbar:
     right:
       - href: index.qmd
