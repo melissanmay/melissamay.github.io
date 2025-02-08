@@ -5,7 +5,7 @@ project:
 website:
   title: "Melissa May"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
@@ -14,6 +14,10 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
+  page-footer:
+    background: light # or 'dark'
+    left: Created and maintained by Melissa May.
+    right: Built with GitHub Pages and Quarto.
 
 format:
   html:
