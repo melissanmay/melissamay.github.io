@@ -22,3 +22,9 @@ During the Fall 2024 and Spring 2025 semesters, I participated in the ESS progra
 - Generated hypotheses on how different factors like project tags, difficulty levels, and recommended age groups influence participation.
 - Collaborated with Dr. Greg Newman, co-creator of CitSci.org, to classify data into meaningful groups, improving user self-categorization.
 - Contributed to the development of a more intuitive platform for future project submissions.
+
+  links:
+    - text: CitSci
+      href: https://citsci.org/
+    - text: CSU SUPER Program
+      href: https://warnercnr.colostate.edu/ess/ess-undergraduate-degree-tracks/ess-undergraduate-internships-research/super-home/
