@@ -11,6 +11,8 @@ In the Spring of 2025, I took a Quantitative Reasoning class based in R. I wrote
 - Includes a Github repo for access to all the code.
 - Look at how high quality my work is!
 
+---
+
 **Skills for Undergraduate Participation in Ecological Research (SUPER)**
 
 During the Fall 2024 and Spring 2025 semesters, I participated in the ESS program Skills for Undergraduate Participation in Ecological Research (SUPER). My research, in collaboration with Dr. Greg Newman, focused on citizen science and exploring participation patterns among users of the CitSci.org platform. Below is a collection of links to my work, which will be updated as it is made available!
@@ -23,8 +25,7 @@ During the Fall 2024 and Spring 2025 semesters, I participated in the ESS progra
 - Collaborated with Dr. Greg Newman, co-creator of CitSci.org, to classify data into meaningful groups, improving user self-categorization.
 - Contributed to the development of a more intuitive platform for future project submissions.
 
-  links:
-    - text: CitSci
-      href: https://citsci.org/
-    - text: CSU SUPER Program
-      href: https://warnercnr.colostate.edu/ess/ess-undergraduate-degree-tracks/ess-undergraduate-internships-research/super-home/
+**Links**
+
+- [CitSci](https://citsci.org/)
+- [CSU SUPER Program](https://warnercnr.colostate.edu/ess/ess-undergraduate-degree-tracks/ess-undergraduate-internships-research/super-home/)
