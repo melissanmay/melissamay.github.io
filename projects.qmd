@@ -4,7 +4,14 @@ format: html
 ---
 
 In the spring of 2025, I took a Quantitative Reasoning class based in R. I wrote some code and did some interesting data science. Here is a collection of links!
-
 - In this assignment, we built a static users site with Github Pages
 - Includes a Github repo for access to all the code.
 Look at how high quality my work is!
+
+During the fall 2024 and spring 2025 semesters, I participated in the ESS program Skills for Undergraduate Participation in Ecological Research (SUPER). My research, in collaboration with Dr. Greg Newman, focused on citizen science and exploring participation patterns among users of the CitSci.org platform. Below is a collection of links to my work, which will be updated as it is made available!
+**Analyzing Participation Patterns Across Citizen Science Projects on CitSci.org**
+- Explored various user participation patterns on the CitSci platform.
+- Conducted data analysis on project types, user engagement, and collaboration levels.
+- Generated hypotheses on how different factors like project tags, difficulty levels, and recommended age groups influence participation.
+- Collaborated with Dr. Greg Newman, co-creator of CitSci.org, to classify data into meaningful groups, improving user self-categorization.
+- Contributed to the development of a more intuitive platform for future project submissions.
