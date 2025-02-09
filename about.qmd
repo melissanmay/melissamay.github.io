@@ -8,39 +8,66 @@ title: "About"
 
 I was born and raised in Fort Lauderdale, Florida, where I developed a deep love for the outdoors early on. My family took frequent trips to the Florida Keys, St. Augustine, and Orlando, and we spent lots of time fishing, boating, going to the beach, and just being outside. These experiences gave me an appreciation for nature long before I ever considered studying it.
 
-Growing up near the Florida Everglades also played a big role in shaping my perspective. My elementary
+Growing up near the Florida Everglades also played a big role in shaping my perspective. My elementary school was built on filled-in swamp land, and we took field trips to learn about the Everglades' ecosystems and their significance to Florida. Even though I didn't realize it at the time, these experiences helped me understand the importance of biodiversity and conservation – ideas that would later influence my academic and career path.
+
+I didn't start out studying Ecosystem Science and Sustainability. Initially, I planned to major in Psychology, but I realized it just wasn't the right fit. I decided to explore Environmental Science and Political Science, and everything seemed to click. By the time I transferred to Colorado State University, I knew I wanted to focus my studies on the intersection of environmental policy and sustainability.
+
+Since moving to Colorado in 2018, I've only become more passionate about environmental issues. My coursework at CSU has opened my eyes to the social and political aspects of sustainability, illustrating how environmental challenges are deeply intertwined with equity, policy, and community engagement. I'm particularly interested in bridging the gap between scientific research and real-world application, ensuring that sustainability efforts are accessible and inclusive. Whatever form my work takes – whether through policy, outreach, or hands-on conservation – I am excited to make a difference and contribute to the creation of a more sustainable and equitable future.
 
 ------------------------------------------------------------------------
 
-## Education
+## My Interests & Passions
 
-**Colorado State University** *Bachelor of Science in Ecosystem Science, Minor in Political Science*
+Over the years, my interests have expanded beyond just environmental science – I'm particularly drawn to how sustainability intersects with equity, policy, and community engagement. Some key areas that drive my work include:
 
--   Expected Graduation: December 2025
--   Named to Warner College of Natural Resources Dean's List Fall 2023, Spring 2024.
+**Biodiversity and Conservation**
 
-**Front Range Community College** *Associate of Arts*
+I've always been interested in ecosystems and the role that biodiversity plays in environmental health. Learning more about nutrient cycling and ecosystem resilience at CSU has deepened my understanding of how interconnected the world is. I'm very interested in how we can balance conservation with human land use and the role of science in shaping environmental policy.
 
--   4.0 GPA
--   Named to President's List of Honor Students in Fall 2022 and Spring 2023.
+**Environmental Justice and Policy**
+
+One of the most critical aspects of sustainability is the idea that it isn't just about science – it's also about people. Global climate change and resource management are deeply political issues, and the communities most affected by environmental challenges are often those with the least power to influence solutions. I'm passionate about ensuring that sustainability efforts are equitable and that marginalized communities always have a voice in climate solutions.
+
+**Community Engagement and Science Communication**
+
+Ecosystem Science isn't just about research – it's about making information accessible and involving people in creating tangible solutions. I love opportunities to bridge the gap between academic research and its real-world application, whether that's through outreach, education, or policy work. I hope that my work in this field will help to create solutions that are practical, inclusive, and sustainability.
 
 ------------------------------------------------------------------------
 
-## Experience
+## My Work & Experience
 
-**Site Content Manager/Communications Coordinator, Natural Resource Ecology Laboratory** *October 2023 - Present*
+**Natural Resource Ecology Laboratory**
 
--   Develops new website content to highlight research projects and the scientists behind the work, driving engagement with diverse audiences.
--   Manages social media pages across multiple platforms to boost engagement and visibility for the lab.
--   Collaborates with other CSU departments and statewide organizations to amplify content and important research.
--   Maintains and updates existing website content, ensuring up-to-date and accurate information.
+Since coming to CSU, I've had the opportunity to work at the Natural Resource Ecology Laboratory, where I've helped combine scientific research with communication and outreach. I've had the opportunity to interview so many esteemed scientists, as well as curating materials like newsletters, articles, and social media posts to inform the public of the work being done at NREL. This experience has reinforced my passion for bridging science and policy, ensuring that sustainability solutions can be implemented in meaningful ways.
 
-**Xi Sigma Pi Natural Resource Honors Society Officer** *August 2024 - Present*
+**Research & Coursework**
 
--   Participates in Xi Sigma Pi meetings and events, planning and engaging with other officers to ensure smooth operation of the club.
--   Attends monthly meetings, volunteer service events, highway cleanups, wood burnings, study rooms, initiations, and team building events.
--   Coordinates society meetings and speakers, contributes to organizing member initiations, and organizes communications within the society.
+Some of my favorite, most formative academic experience have included:
 
-```{r}
-1 + 1
-```
+-   Exploring ecosystem nutrient cycling and how small shifts in biodiversity can have large-scale ecological impacts.
+
+-   Diving into environmental justice and sustainability policy, learning about how systemic inequities shape climate impacts.
+
+-   Studying disturbance regimes, like wildfires and hurricanes, and their role in long-term ecosystem resilience.
+
+**Community Engagement & Volunteering**
+
+Outside of research, I've also looked for ways to get involved in environmental outreach and sustainability efforts. I've participated in local conservation projects, contributed to participatory science projects, and reached out to professionals in the sustainability field.
+
+------------------------------------------------------------------------
+
+## What's next?
+
+As I think about the future, I know that whatever form my career takes, I want my work to make a tangible impact. Whether it's through research, policy, or direct community engagement, I want to be part of creating sustainable solutions that reflect the needs of diverse communities.
+
+There's still so much to learn, and that's what excites me the most. The environmental challenges we face are complex, but they also present opportunities for interdisciplinary collaboration, innovation, and meaningful change. I'm looking forward to continuing to grow in this field, learning from others, and contributing to solutions in this field.
+
+------------------------------------------------------------------------
+
+## Want to Connect?
+
+If you're interested in chatting about sustainability, policy, or environmental justice, I'd love to connect! Feel free to reach out to me via email or connect with me on LinkedIn.
+
+-   [Email me](mailto:melmay@colostate.edu)
+
+-   [Connect with me on LinkedIn](https://www.linkedin.com/in/mel-may/)
