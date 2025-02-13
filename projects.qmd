@@ -7,10 +7,11 @@ format: html
 
 In the Spring of 2025, I took a Quantitative Reasoning class based in R. The course has helped establish my baseline skills in open-source technologies like R and Quarto.
 
+-   During our first project, we constructed [this website](https://melissanmay.github.io/)!
 -   In this first lab assignment, we practiced comprehensively using our skills in R and Quarto so far. It was really helpful to be able to put everything together.
 -   We also connected our websites in RStudio to a repository in Github, which helped strengthen my abilities and confidence with Git.
 -   There were a lot of elements of style as well, which added a new interesting dimension, and a really fun way to use code to achieve results.
-- I'm realizing that a large part of these coding projects could be troubleshooting and looking for simple errors that are throwing off the entire line of code. It's important to just stay patient and take your time going through the components of the website.
+-   I'm realizing that a large part of these coding projects could be troubleshooting and looking for simple errors that are throwing off the entire line of code. It's important to just stay patient and take your time going through the components of the website.
 
 ------------------------------------------------------------------------
 
